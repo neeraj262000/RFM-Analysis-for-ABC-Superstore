@@ -57,11 +57,3 @@ Example rule-based segmentation includes:
 1. Open the Jupyter Notebook: `RFM_Analysis_ABC_Superstore.ipynb`
 2. Execute each cell in order
 3. Review the final customer segmentation output
-
-## Author
-
-Generated using OpenAI's ChatGPT
-
----
-
-*Note: This notebook is suitable for extending into advanced customer segmentation using clustering or visualization techniques.*
